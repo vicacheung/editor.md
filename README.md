@@ -15,7 +15,7 @@
 
 - Support Standard Markdown / CommonMark and GFM (GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support [ToC (Table of Contents)](https://pandao.github.io/editor/examples/toc.html), [Emoji](https://pandao.github.io/editor.md/examples/emoji.html), [Task lists](https://pandao.github.io/editor.md/examples/task-lists.html), [@Links](https://pandao.github.io/editor.md/examples/@links.html)...;
+- Markdown Extras : Support [ToC (Table of Contents)](https://pandao.github.io/editor.md/examples/toc.html), [Emoji](https://pandao.github.io/editor.md/examples/emoji.html), [Task lists](https://pandao.github.io/editor.md/examples/task-lists.html), [@Links](https://pandao.github.io/editor.md/examples/@links.html)...;
 - Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
 - Support [decode & fliter of the HTML tags & attributes](https://pandao.github.io/editor.md/examples/html-tags-decode.html);
 - Support [TeX (LaTeX expressions, Based on KaTeX)](https://pandao.github.io/editor.md/examples/katex.html), [Flowchart](https://pandao.github.io/editor.md/examples/flowchart.html) and [Sequence Diagram](https://pandao.github.io/editor.md/examples/sequence-diagram.html) of Markdown extended syntax;
@@ -65,7 +65,7 @@ bower install editor.md
 ```html
 <link rel="stylesheet" href="editor.md/css/editormd.min.css" />
 <div id="editor">
-    <!-- Tips: Editor can auto append a `<textarea>` tag -->
+    <!-- Tips: Editor.md can auto append a `<textarea>` tag -->
     <textarea style="display:none;">### Hello Editor.md !</textarea>
 </div>
 <script src="jquery.min.js"></script>
